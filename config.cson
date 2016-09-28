@@ -1,0 +1,10 @@
+"*":
+  core:
+    autoHideMenuBar: true
+  editor:
+    softWrap: true
+    tabType: "hard"
+  "exception-reporting":
+    userId: "0c36363b-72b6-1d1f-1ce1-f6b16dff4170"
+  welcome:
+    showOnStartup: false
